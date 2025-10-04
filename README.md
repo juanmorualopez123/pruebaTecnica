@@ -1,1 +1,1 @@
-# pruebaTenica
+# pruebaTecnica
